@@ -1,6 +1,6 @@
 
 
-# Poker Hands Analyzer with SFML
+# Poker Hand Victor
 
 This is a C++ application that analyzes poker hands using the SFML (Simple and Fast Multimedia Library) library for graphical output. The program allows users to input their hand and the community cards (flop, turn, and river) to determine which hands might beat theirs at different stages of a Texas Hold'em game. It visualizes the user's hand on a window and prints the analysis to the console.
 
