@@ -128,16 +128,9 @@ Please ensure your code follows C++ best practices and includes comments where n
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please contact [Your Name] at [your.email@example.com] or open an issue on the repository.
+For questions or support, please contact Narasimha at naci@ad.unc.edu or open an issue on the repository.
 
 ---
 
-### Notes for You
-- **Customization**: Adjust the contact information, repository URL, and license file as needed.
-- **Enhancement Suggestions**: If you plan to expand this, consider adding:
-  - Full poker rank detection (e.g., Pair, Two Pair).
-  - Graphical display of beating hands.
-  - Input validation with error messages.
-  - A deck shuffle to simulate random community cards.
-- **Font Issue**: If "arial.ttf" isn’t available, download a TTF font, place it in the project directory, and update the file name in `printCardSFML` if necessary.
+
 
